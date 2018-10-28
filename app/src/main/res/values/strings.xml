@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppSwitch</string>
+    <string name="titlecons">The One</string>
+    <string name="loca">Location: </string>
+    <string name="dist">Distance: </string>
+    <string name="pinto">Pinto Art</string>
+    <string name="oneloc">España Manila</string>
+    <string name="back">Switch</string>
+    <string name="next">Map</string>
+    <string name="antip">Antipolo, Rizal</string>
+    <string name="pindist">24.7 Km</string>
+</resources>
